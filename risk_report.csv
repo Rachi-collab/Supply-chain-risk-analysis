@@ -1,0 +1,11 @@
+risk_id,name,category,likelihood,impact,composite,risk_level,strategy,top_action
+R01,Geopolitical — APAC chip sourcing,Geopolitical,4,5,64,High,Transfer / Reduce within 30 days,Review and update supplier contracts with penalty clauses
+R03,Tier-2 supplier financial distress,Supplier,4,4,47,High,Transfer / Reduce within 30 days,Review and update supplier contracts with penalty clauses
+R02,Single-source logistics partner,Logistics,3,5,40,Medium,Reduce / Monitor quarterly,Schedule supplier audit within next quarter
+R05,Ransomware on ERP systems,Cyber,3,4,32,Medium,Reduce / Monitor quarterly,Schedule supplier audit within next quarter
+R04,"Climate — flood risk, Vietnam",Climate,3,4,26,Medium,Reduce / Monitor quarterly,Schedule supplier audit within next quarter
+R07,Port congestion — Rotterdam,Logistics,4,3,26,Medium,Reduce / Monitor quarterly,Schedule supplier audit within next quarter
+R06,Demand spike — holiday season,Demand,4,3,22,Medium,Reduce / Monitor quarterly,Schedule supplier audit within next quarter
+R08,Tariff increase — US/EU trade,Geopolitical,3,3,19,Low,Accept — monitor annually,Document and include in annual risk register review
+R09,Supplier quality failure,Supplier,2,4,19,Low,Accept — monitor annually,Document and include in annual risk register review
+R10,FX currency volatility,Financial,4,2,9,Low,Accept — monitor annually,Document and include in annual risk register review

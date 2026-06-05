@@ -1,0 +1,13 @@
+supplier,region,category,tier,spend_pct,supplier_risk_score,risk_level
+SinoChip Ltd,China,Semiconductors,1,18,46,High
+VietFab Co.,Vietnam,Assembly,1,14,35,Medium
+SpeedFreight EU,Netherlands,Logistics,1,12,34,Medium
+TechParts Mexico,Mexico,Components,1,11,34,Medium
+UKLogistics PLC,UK,Logistics,1,5,32,Medium
+GermanAuto GmbH,Germany,Components,1,5,32,Medium
+IndiaIT Services,India,IT/Software,2,7,27,Medium
+BrazilPack SA,Brazil,Packaging,2,6,27,Medium
+TurkeyTextile Ltd,Turkey,Components,2,4,27,Medium
+NordicRaw AB,Sweden,Raw Materials,2,9,22,Medium
+KoreaSteel Corp,South Korea,Raw Materials,2,5,21,Medium
+CanadaChemicals Inc,Canada,Raw Materials,3,4,17,Low
